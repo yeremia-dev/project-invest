@@ -727,7 +727,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 .main .logo{
     color: #FFFFFF;
-    font-size: 56px;
+    font-size: 82px;
     font-weight: 300;
     position: relative;
     text-align: center;
@@ -802,12 +802,18 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     color: #FF3B30;
 }
 
-@media (min-width:219px){
+@media (min-width:219px) and (max-width: 449px){
     .main .subscribe .form-group{
         width: auto;
     }
     .main .subscribe .form-inline .btn{
         width: 100%;
+    }
+    .main .logo{
+        font-size: 50px;
+    }
+    .margin-atasnya{
+        margin-top: 10px;
     }
 }
 @media (min-width:768px){

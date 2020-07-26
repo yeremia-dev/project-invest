@@ -35,8 +35,8 @@
     <!--   You can change the black color for the filter with those colors: blue, green, red, orange       -->
 
     <div class="container">
-        <h1 class="logo cursive">
-            Coming Soon
+        <h1 class="logo">
+            Hijrahkan
         </h1>
         <!--  H1 can have 2 designs: "logo" and "logo cursive"           -->
 
@@ -46,7 +46,7 @@
                 <div class="col-auto">
                     <button class="btn btn-success btn-fill btn-lg"style="padding: 10px 20px; opacity: 0.8; font-size: 17px">Take Over / <br> Pindahkan Utang</button>
                 </div>
-                <div class="col-auto">
+                <div class="col-auto margin-atasnya">
                     <button class="btn btn-success btn-fill btn-lg" style="padding: 20px 50px; opacity: 0.8">Investasi</button>
                 </div>
             </div>

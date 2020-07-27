@@ -44,10 +44,10 @@
             <h4 class="motto">Tertarik lebih lanjut</h4>
             <div class="row justify-content-lg-center justify-content-md-center justify-content-center form-inline subscribe" style="font-family: 'Roboto Slab', serif;">
                 <div class="col-auto">
-                    <button class="btn btn-success btn-fill btn-lg"style="padding: 10px 20px; opacity: 0.8; font-size: 17px">Take Over / <br> Pindahkan Utang</button>
+                    <button class="btn btn-success btn-fill btn-lg"style="padding: 10px 20px; opacity: 0.9; font-size: 17px">Take Over / <br> Pindahkan Utang</button>
                 </div>
                 <div class="col-auto margin-atasnya">
-                    <button class="btn btn-success btn-fill btn-lg" style="padding: 20px 50px; opacity: 0.8">Investasi</button>
+                    <button class="btn btn-success btn-fill btn-lg" style="padding: 20px 50px; opacity: 0.9">Investasi</button>
                 </div>
             </div>
         </div>

@@ -109,5 +109,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="20131db450" level="application" />
+    <orderEntry type="library" name="jquery-2.2.1" level="application" />
   </component>
 </module>
